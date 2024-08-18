@@ -2,3 +2,4 @@
 Recently, below sites are provided by this organization
 - https://meilcli.net
 - https://blog.meilcli.net
+- https://penguin.photos
